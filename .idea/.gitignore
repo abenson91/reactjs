@@ -3,7 +3,7 @@
 /workspace.xml
 
 #ide
-.iml
+*.iml
 /.idea
 
 

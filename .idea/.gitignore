@@ -2,8 +2,12 @@
 # Default ignored files
 /workspace.xml
 
-#ide
+#IDE
 *.iml
 /.idea
-
-
+/dictionaries
+/codeStyles/
+/misc.xml
+/modules.xml
+/inspectionProfiles/Project_Default.xml
+/vcs.xml
